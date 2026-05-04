@@ -86,7 +86,7 @@ python app.py
 3. Testing:
    - Make a test call to your Twilio number
    - Monitor the logs for any issues
-   - Check call recordings in Twilio console(twilio api)
+   - Check call recordings in Twilio console
 
 ## Project Structure
 ```
